@@ -1,4 +1,4 @@
-# Workout Tracking System
+# Workout Backend API
 
 A professional Flask-based application for tracking workouts and exercises, featuring a REST API for CRUD operations on workouts and exercises, and a seed script to populate the database with sample data.
 
